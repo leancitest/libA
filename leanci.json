@@ -1,4 +1,4 @@
 {
-  dependencies : [],
-  commands : ["echo hola!"]
+  "dependencies" : [],
+  "commands" : ["echo hola!"]
 }
